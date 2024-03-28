@@ -1,6 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "duckduckgo-email",
+  "version": "1.0.0",
   "title": "DuckDuckGo-Email",
   "description": "A simple extension that generate DuckDuckGo email alias",
   "icon": "command-icon.png",
